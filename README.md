@@ -1,6 +1,9 @@
 # YTD YouTube Downloader
 It downloads videos. It's in the title.
 
+## Supported Sites
+![image info](./assets/sites.png)
+
 ## Installation
 This is for Windows, just google how to do it on your system.
 ### Step 1
