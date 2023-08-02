@@ -2,7 +2,7 @@
 It downloads videos. It's in the title.
 
 ## Supported Sites
-![image info](./assets/sites.png)
+![image info](./assets/IMG_4192.jpeg)
 
 ## Installation
 This is for Windows, just google how to do it on your system.
